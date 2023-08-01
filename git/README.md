@@ -44,6 +44,9 @@ For your practice, make your change here:
 
 
 2. Try to read & understand the GIT tree of `learn2gether` repo 
+![GIT tree elements](images/git_tree_elements.png)
+
+
 3. Make below changes on our repo:
   - From the lastest commit, create your own branch (using `git branch` command to check what branch you're at)
   - Make 3 seperated commits on your new branch (using `git tree` to observe GIT commit history, try to understand local tree _in green_ & remote tree _in red_): 
