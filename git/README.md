@@ -22,7 +22,7 @@ For your practice, make your change here:
 ## B. Start working on our learning-repository
 1. Create a directory on your OS (ex: C:\Npthao\Repository), this will be the place to store our learning repostiory (and other repositories if any)
 1. In GIT CMD, we move to the directory created at step 2 by the command `cd the-absolutepath-to-directory` (ex: "cd C:\Npthao\Repository")
-1. Cloning the "learn2gether" repository to our directory using command "git clone https://github.com/thaoNG0612/learn2gether.git"
+1. Cloning the "learn2gether" repository to our directory using command `git clone https://github.com/thaoNG0612/learn2gether.git`
    Now, we can update our progress/resource independently but still neat and clear using GIT
 1. In GIT CMD, move to our repository using command `cd learn2gether`
 1. Using command `git tree` to check for the current GIT tree (commit history) of this repository 
